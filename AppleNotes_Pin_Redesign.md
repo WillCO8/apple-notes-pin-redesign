@@ -118,7 +118,7 @@ This will increase satisfaction, usability, and awareness of the pin feature.
 ## 🧭 GitHub Repo Setup
 
 This redesign is tracked and versioned at:  
-👉 [https://github.com/WillCO8/apple-notes-pin-redesign](https://github.com/WillCO8/apple-notes-pin-redesign)
+👉 [https://github.com/williamchonortega/apple-notes-pin-redesign](https://github.com/williamchonortega/apple-notes-pin-redesign)
 
 ---
 
